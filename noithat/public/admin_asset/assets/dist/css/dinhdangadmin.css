@@ -1,0 +1,83 @@
+
+ /*định dạng thẻ menu*/
+.btn-group a{
+	width: 220px;
+	height: 40px;
+	line-height: 25px;
+	color: white;
+}
+.btn-group a:hover{
+	background-color: #F5A60E;
+	color:#FFFFFF;
+}
+.btn-group{
+	margin-left: 140px;
+	color: #0B9628;
+	height: 40px;
+	margin-bottom: 15px;
+}
+.col-md-12{
+	text-align: center;
+	height: 40px;
+
+	/*background-color: #0B9628;*/
+}
+.form-inline{
+	/*margin: auto;*/
+	float: right;
+	margin-left: 110px;
+	margin-bottom: 35px;
+	padding-bottom: 13px;	
+}
+ .btn-light{
+	color: #000;
+}
+/*định dạng profile*/
+.profile{
+	/*border: 1px solid red;*/
+	height: 600px;
+	margin-top: 20px;
+}
+.card{
+	/*border: 1px solid red;*/
+	margin: auto;
+}
+#tieude h4{
+	background-color: #3c8dbc;
+	padding-left: 20px;
+}
+/*định dạng thêm tin*/
+.menu{
+	border: 1px solid #ccc;
+	height: 600px;
+	margin-top: 20px;
+	background-color: white;
+}
+.menu1{
+	/*border: 1px solid r*/ed;
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.menu1 .card1 img{
+	width: 150px;
+	height: 150px;
+	margin: auto;
+}
+.card1{
+	margin-left: 20px;
+}
+.menu1 .card1 .card-title{
+	text-align: center;
+}
+/*định dạng footer*/
+.button{
+	height: 40px;
+	background: #999999;
+	
+}
+#button a{
+	text-decoration:none;
+}
